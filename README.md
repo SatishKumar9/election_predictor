@@ -10,4 +10,6 @@ To install the packages,please do the following:(The below steps are for Ubuntu)
 2. Activate it by the command: source <path_to_environment>/bin/activate
 3. pip install -r requirements.txt
 
-For Windows, use the equivalent windows commands
+For Windows, use the equivalent windows commands.
+
+This project is done by iiits students.
